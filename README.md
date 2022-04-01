@@ -12,4 +12,4 @@
 # Asked Work
 Implement a navigation system in the App:
 
-<img src="https://github.com/badi3a/Workshop2/blob/main/workshop2.png">
+<img src="https://github.com/badi3a/Workshop3_Service/blob/main/workshop.png">
